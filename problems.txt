@@ -1,0 +1,6 @@
+3/28/3036
+I went through the microcorruption_ctf tutorial and accomplished the following:
+i) learned about the layout (disassembly, debugger console, register state, live memory dump)
+ii) learned a number of commands (out, step, reset, continue)
+iii) learned to set and clear breakpoints
+iv) learned to follow function calls in disassembly
