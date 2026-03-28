@@ -1,0 +1,4 @@
+3/28/2026
+Completed section 1 of The Beginner's Guide to the picoGym and learned the following:
+i) how to receive info on different unix shell commands using 'man'
+ii) how to connect to a server using ssh and netcat
