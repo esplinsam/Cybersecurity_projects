@@ -6,3 +6,7 @@ iii) Learned about ROT13 encoding and wrote a simple python script to translate 
 
 3/31/2026
 Worked on getting Vmware set up and creating a new virtual machine and downloaded a ubuntu.iso file to work as its operating system
+Solved the problem 'Wave a flag':
+i) Learned to change file permissions for an executable file in the linux terminal
+ii) Learned to run executables in the linux terminal
+iii) Learned to invoke help flags using the -h command
