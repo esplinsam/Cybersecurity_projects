@@ -3,3 +3,6 @@ Completed section 1 of The Beginner's Guide to the picoGym and learned the follo
 i) how to receive info on different unix shell commands using 'man'
 ii) how to connect to a server using ssh and netcat
 iii) Learned about ROT13 encoding and wrote a simple python script to translate a string using this ecoding scheme
+
+3/31/2026
+Worked on getting Vmware set up and creating a new virtual machine and downloaded a ubuntu.iso file to work as its operating system
