@@ -17,3 +17,11 @@ v) Created my first project and looked briefly at the tools
 # Wireshark
 
 i) Began reading a wireshark intro document
+
+---
+
+# 4/16/2026
+
+# Wireshak
+
+i) Captured first packages in wireshark
