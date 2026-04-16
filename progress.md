@@ -10,4 +10,10 @@ ii) Ensured python and java versions were up to date and downloaded jdk so ghidr
 
 iii) Installed ghidra and ran it
 
-iv) Created my first project and looked briefly at the tools
+iv) Looked through cheat sheet
+
+v) Created my first project and looked briefly at the tools
+
+# Wireshark
+
+i) Began reading a wireshark intro document
