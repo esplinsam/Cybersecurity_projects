@@ -34,3 +34,5 @@ i) Captured first packages in wireshark
 i) Solved Flag Hunters problem -- was able to take advantage of unsanitized user input to print "secret" lines
 
 ii) Solved Transformation problem -- wrote python script to reverse an encoding using unicode code points
+
+iii) Solved Strings it problem -- learned how to use strings linux command to print readable strings and grep to search for a certain substring
