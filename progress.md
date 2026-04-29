@@ -22,6 +22,15 @@ i) Began reading a wireshark intro document
 
 # 4/16/2026
 
-# Wireshak
+# Wireshark
 
 i) Captured first packages in wireshark
+
+---
+
+# 4/29/2026
+
+# PicoCTF
+i) Solved Flag Hunters problem -- was able to take advantage of unsanitized user input to print "secret" lines
+
+ii) Solved Transformation problem -- wrote python script to reverse an encoding using unicode code points
