@@ -36,3 +36,10 @@ i) Solved Flag Hunters problem -- was able to take advantage of unsanitized user
 ii) Solved Transformation problem -- wrote python script to reverse an encoding using unicode code points
 
 iii) Solved Strings it problem -- learned how to use strings linux command to print readable strings and grep to search for a certain substring
+
+---
+
+# 4/30/2026
+i) Solved New Orleans ctf problem from microcorruption.com -- I noticed that the password was saved in memory and converted the hex data to ascii to break the code
+
+ii) Solved Sydney ctf problem from microcorruption.com -- The password was now no longer saved in memory, but the check_password function explicitly compared the user entered password to hex data which could also be converted to ascii to break the code
